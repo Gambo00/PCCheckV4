@@ -172,7 +172,6 @@ This project is licensed under the GPL-3.0 License. See the LICENSE file for det
 - **Author**: Gokhan
 - **Website**: [guns.lol/gokhan_](https://guns.lol/gokhan_)
 - **Discord**: gokhan__
-- **GitHub**: github.com/gokhan-dev
 
 ---
 
